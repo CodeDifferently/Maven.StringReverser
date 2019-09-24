@@ -1,6 +1,6 @@
 # Project Title
 
-* **Objective** - To create a product.
+* **Objective** - To create a class which can reverse a String.
 * **Purpose** - To gain familiarity with basic algorithms
 
 ## Part 1 - Clone the project
